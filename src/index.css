@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.allPost{
+  margin: 10px;
+  width:70%;
+  float: left;
+
+}
+.serach{
+width:25%;
+float: right;
+margin: 10px;
+
+}
+.allPost tr td, .serach tr td{
+border: 1px solid #ccc;
+}
